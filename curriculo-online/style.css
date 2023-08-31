@@ -20,7 +20,7 @@ main{
     margin: auto;
     max-width: 80%;
     border-radius: 10px;
-    padding-bottom: 400px;
+    padding-bottom: 200px;
     background-image: linear-gradient(#010305, #00C4CC);
 }
 img{
@@ -82,19 +82,16 @@ div{
     border-radius: 50%;
 }
 footer{
-    box-shadow: 0 0 7px #96ffff, 0 0 32px;
-    width: 100%;
-    left: 0;
-    bottom: 0;
-    position: absolute;
-    color: white;
-    background-color: black;
-}
-footer > p{
-    padding: 10px;
-    text-align: center;
+    
 }
 
+#att{
+    margin-top: 200px;
+}
+#att p{
+    text-align: center;
+    margin: auto;
+}
 p{
     text-shadow: 0px 0px 3px rgb(0, 0, 0);
     text-align: justify;
